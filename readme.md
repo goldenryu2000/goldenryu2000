@@ -40,7 +40,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <br />
 
-<img width="40%" src="https://img.shields.io/badge/-Times+You+Have+Refreshed+The+Page-ff69b4">
+<img width="40%" src="https://img.shields.io/badge/-Times%You%Have%Refreshed%The%Page-ff69b4">
 
 </br>
 <code><img align ='center' width="50%" src="https://count.getloli.com/get/@:saltysage?theme=rule34"></code>
