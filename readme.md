@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
+<img width="100%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently a Computer Science Undergrad ;
 - 🌱 I’m currently learning Backend Development;
