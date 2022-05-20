@@ -12,13 +12,12 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nishant_sharma20@outlook.com)
 
 &nbsp;
-
+<!-- Any image aligned to the right. Beware the width -->
+<img width="100%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently a Computer Science Undergrad ;
 - 🌱 I’m currently learning Backend Development;
