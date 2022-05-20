@@ -27,7 +27,6 @@ You can use the website to generate badges: https://shields.io/
 
 <br />
     <img width="52%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=goldenryu2000&show_icons=true&hide_border=true&theme=radical" />
-  </a>
 
 &nbsp;
 
