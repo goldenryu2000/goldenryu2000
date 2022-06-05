@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 <!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <br />
 
-<img width="50%" src="https://img.shields.io/badge/-Times%20you%20have%20refreshed%20the%20page-ff69b4">
+<img width="50%" src="https://img.shields.io/badge/-Number%20of%20Visitors-ff69b4">
 
 </br>
 <code><img align ='center' width="50%" src="https://count.getloli.com/get/@:saltysage?theme=rule34"></code>
