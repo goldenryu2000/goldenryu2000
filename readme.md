@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 <!-- Any image aligned to the right. Beware the width -->
-<img width="95%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
+<img width="65%" align="right" alt="Github" src="https://media.giphy.com/media/u18KbOWs65HFK/giphy.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
