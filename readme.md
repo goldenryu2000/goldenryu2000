@@ -19,7 +19,7 @@
 - 🎯 Writing code, breaking things, and calling it **learning**.
 - 🌱 Currently diving deep into Django, AWS, and the art of making APIs that don’t break *(too often)*.
 - 🤔 Trying to write commit messages and docstrings that future me won’t hate.
-- 📫 Reach me at <a href="mailto:sharma.nishant1312@gmail.com">sharma.nishant1312@gmail.com</a> or stalk me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.
+- 📫 Reach me at <a href="mailto:sharma.nishant1312@gmail.com">sharma.nishant1312@gmail.com</a> or stalk me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
 
 ---
 
