@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 Writing code, breaking things, and calling it “learning.”
 - 🌱 Currently diving deep into Django, AWS, and the art of making APIs that don’t break (too often).
 - 🤔 Trying to write commit messages and docstrings that future me won’t hate.
-- 📫 Reach me at sharma.nishant1312@gmail.com or stalk me on [LinkedIn](https://www.linkedin.com/in/nishant-sharma20).
+- 📫 Reach me at sharma.nishant1312@gmail.com or stalk me on [LinkedIn](https://www.linkedin.com/in/nishant-sharma20)
 
 <br />
     <img width="52%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=goldenryu2000&show_icons=true&hide_border=true&theme=radical" />
