@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <br />
 
-<img width="15%" src="https://img.shields.io/badge/-Visitors-ff69b4">
+<img align='left' width="15%" src="https://img.shields.io/badge/-Visitors-ff69b4">
 
 </br>
 <code><img align ='center' width="50%" src="https://count.getloli.com/get/@:saltysage?theme=rule34"></code>
