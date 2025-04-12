@@ -1,15 +1,10 @@
 <h1 align="left">Hi, I'm Nishant Sharma, Just another Curious Developer.</h1>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/nishant-sharma20">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:sharma.nishant1312@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-    </a>
+    <a href="https://www.linkedin.com/in/nishant-sharma20"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:sharma.nishant1312@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
----
 
 <table>
 <tr>
@@ -21,13 +16,17 @@
 - 🤔 Trying to write commit messages and docstrings that future me won’t hate.
 - 📫 Reach me at <a href="mailto:sharma.nishant1312@gmail.com">sharma.nishant1312@gmail.com</a> or stalk me on <a href="https://www.linkedin.com/in/nishant-sharma20">LinkedIn</a>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="600" height="3">
+</div>
 
-### Nishant Sharma's GitHub Stats
+<!--### GitHub Stats  -->
 <!-- Fetching stats dynamically -->
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=goldenryu2000&show_icons=true&theme=radical" />
-</p>
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenryu2000&theme=radical&hide_border=true&mode=weekly" />
+  <br />
+</div>
 
 </td>
 
@@ -40,12 +39,14 @@
 </tr>
 </table>
 
----
-
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="600" height="3">
+</div>
+&nbsp;
 <!-- Visitors Badge & Counter -->
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/-Visitors-ff69b4" />
-    <br>
-    <br>
-    <img src="https://count.getloli.com/get/@:saltysage?theme=rule34" />
-</p>
+    <br />
+    <br />
+   <img src="https://count.getloli.com/get/@:saltysage?theme=rule34" />
+</div>
